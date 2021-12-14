@@ -1,3 +1,3 @@
 small, lightweight chatpage system.
 
-HOW TO USE: open up 
+HOW TO USE: open up server.js and change the port to any port on you local network. load it to save changes, the open 
